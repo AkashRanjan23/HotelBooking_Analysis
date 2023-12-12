@@ -1,4 +1,5 @@
 Capstone Project: Hotel Booking Analysis
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
 Welcome to the Hotel Booking Analysis Capstone Project repository! This project focuses on analyzing hotel booking data to extract insights and patterns that can be valuable for the hospitality industry. The dataset used in this project contains information about hotel bookings, including customer details, booking dates, and various other relevant factors.
 
